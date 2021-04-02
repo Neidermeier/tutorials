@@ -28,8 +28,8 @@ args = parser.parse_args()
 gcomm = MPI.COMM_WORLD
 
 
-TPR_target = 1.4
-MFR_target = 0.7
+TPR_target = 1.4023
+MFR_target = 0.7053
 
 # Set the parameters for optimization
 daOptions = {
